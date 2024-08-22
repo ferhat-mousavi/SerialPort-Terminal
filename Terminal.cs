@@ -1,7 +1,5 @@
 /* 
  * Project:    SerialPort Terminal
- * Company:    Coad .NET, http://coad.net
- * Author:     Noah Coad, http://coad.net/noah
  * Created:    March 2005
  * 
  * Notes:      This was created to demonstrate how to use the SerialPort control for
